@@ -14,6 +14,8 @@ Nama Anggota:
 
 ## Jawaban
 
+### VLSM
+
 1. Buat topologi sama seperti soal di Cisco Packet Tracker
 
 ![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/topologi%20yak.png)
@@ -110,5 +112,23 @@ Atur IP pada interface __SURABAYA__ yang mengarah ke client __SAMPANG__ dengan 1
 ```
 
 
+### CIDR
+
+![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/cidr1.jpg)
+
+![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/cidr2.jpg)
+
+![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/cidr3.jpg)
+
+![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/cidr4.jpg)
+
+![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/cidr5.jpg)
+
+![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/cidr6.jpg)
+
+![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/cidr7.jpg)
+
+
+![2](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/cidr%20tree%20(2).jpg)
 
 
