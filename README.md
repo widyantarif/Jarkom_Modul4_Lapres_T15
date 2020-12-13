@@ -22,7 +22,9 @@ Nama Anggota:
 3. Sambungkan kabel antara sesama router atau dengan switch.
 4. Lalu kelompokkan router dan switch yang ada seperti gambar dibawah: 
 
-![3](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/topologi.jpg)
+![3](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/topo%201.jpg)
+
+![4](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/topo%202.jpg)
 
 5. Setelah dikelompokkan, dapat dihitung subnetnya ada berapa dan menentukan penggunaan netmask sesuai dengan prefix setiap subnet. Perhitungan seperti dibawah: 
 
