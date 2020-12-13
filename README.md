@@ -22,3 +22,20 @@ Nama Anggota:
 3. Sambungkan kabel antara sesama router atau dengan switch.
 4. Lalu kelompokkan router dan switch yang ada seperti gambar dibawah: 
 
+![3](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/topologi.jpg)
+
+5. Setelah dikelompokkan, dapat dihitung subnetnya ada berapa dan menentukan penggunaan netmask sesuai dengan prefix setiap subnet. Perhitungan seperti dibawah: 
+
+![4](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/perhitungan%20IP.jpg)
+
+6. Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada __VLSM__. Interface dapat diatur pada menu ```Config -> Interface > “nama interface” (contoh: FastEthernet0/0)```. Kemudian, isi alamat IP dan subnet mask dari subnet interface tersebut. Berikut contoh untuk mengatur IP pada subnet A1.
+Atur IP pada interface __SURABAYA__ yang mengarah ke client __SAMPANG__ dengan 192.168.4.0.
+
+![5](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/atur%20ip%20router.png)
+
+7. Lalu atur IP di __SAMPANG__ yang mengarah ke __SURABAYA__. 
+
+![6](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/atur%20ip%20client.png)
+
+8. Ulangi langkah di atas untuk setiap router, dan juga client lain yang ada.
+
