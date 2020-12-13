@@ -26,7 +26,7 @@ Nama Anggota:
 
 5. Setelah dikelompokkan, dapat dihitung subnetnya ada berapa dan menentukan penggunaan netmask sesuai dengan prefix setiap subnet. Perhitungan seperti dibawah: 
 
-![4](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/perhitungan%20IP.jpg)
+![4](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/vlsm.jpg)
 
 6. Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada __VLSM__. Interface dapat diatur pada menu ```Config -> Interface > “nama interface” (contoh: FastEthernet0/0)```. Kemudian, isi alamat IP dan subnet mask dari subnet interface tersebut. Berikut contoh untuk mengatur IP pada subnet A1.
 Atur IP pada interface __SURABAYA__ yang mengarah ke client __SAMPANG__ dengan 192.168.4.0.
