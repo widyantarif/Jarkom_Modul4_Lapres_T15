@@ -40,7 +40,7 @@ Atur IP pada interface __SURABAYA__ yang mengarah ke client __SAMPANG__ dengan 1
 8. Ulangi langkah di atas untuk setiap router, dan juga client lain yang ada.
 9. Melakukan routing di setiap router yang ada. Routing dapat dilakukan pada menu ```Config > Routing > Static``` pada device Router. Lalu, isilah static routes seperti gambar dibawah pada __SURABAYA__ dan tekan tombol 'Add':
 
-![7]()
+![7](https://github.com/widyantarif/Jarkom_Modul4_Lapres_T15/blob/main/gambar%20modul%204/2020-12-13%20(2).png)
 
 10. Semua routing untuk per router adalah: 
 
